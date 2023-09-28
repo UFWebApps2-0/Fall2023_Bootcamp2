@@ -1,4 +1,4 @@
-# Assignment 2: Persisting data using PostgreSQL and Sequalize
+# Bootcamp Assignment 2: UF Directory App - Persisting data using PostgreSQL and Sequalize
 
 Our application at this point has an issue one majore issue... 
 - Each time the server starts, we reload the data from the same JSON file. 
